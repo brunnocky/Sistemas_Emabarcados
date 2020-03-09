@@ -1,26 +1,32 @@
-1 - Sistemas embarcados, s�o um conjunto de sistemas projetados para realizarem tarefas espec�ficas. Desta forma, � poss�vel otimizar
+1 - Sistemas embarcados, são um conjunto de sistemas projetados para realizarem tarefas específicas. Desta forma, é possível otimizar
 de forma geral o projeto.
 
 2 - 
-Um sistema microprocessado � composto por: Uma unidade central de processamento (CPU), Um conjunto de perif�ricos necess�rios para
-o seu funcionamento. Dentre este perif�ricos podemos destacar: Mem�ria de dados, Mem�ria de programa, Circuito de clock(sincroniza��o das opera��es),
-Interfaces de entrada e sa�da 3.
-O microprocessador � respons�vel por executar todas as fun��es e comandos de um computador. Cada programa de software e cada componente de hardware 
-do computador � dependente do microprocessador .
+Um sistema microprocessado é composto por: Uma unidade central de processamento (CPU), Um conjunto de periféricos necessários para
+o seu funcionamento. Dentre este periféricos podemos destacar: Memória de dados, Memória de programa, Circuito de clock(sincronização das operações),
+Interfaces de entrada e saída 3.
+O microprocessador é responsável por executar todas as funções e comandos de um computador. Cada programa de software e cada componente de hardware 
+do computador é dependente do microprocessador .
 
-3 - Ve�culos automotivos: acionadores de tra��o, air bags e etc.
-    Controladores eletr�nicosem microondas ou m�quinas de lavar.
-    Rob�s industriais
+3 - Veículos automotivos: acionadores de tração, air bags e etc.
+    Controladores eletrônicosem microondas ou máquinas de lavar.
+    Robôs industriais
     
-4- Microcontroladores
-   Processadores de prop�sio geral (ARM, Intel,Athlon...)
-   DSPs
-   FPGAs
-   ASICs
-   SoCs
-   MPSoCs
+4- Microcontroladores:  é um pequeno computador (SoC) num único circuito integrado o qual contém um núcleo de processador, memória e        periféricos programáveis de entrada e saída.
+
+   Processadores de propósio geral (ARM, Intel,Athlon...): o processador é um complexo de circuitos existente nos sistemas informáticos    que configura a unidade central de processamento ou CPU.
+   
+   DSPs: são microprocessadores especializados em processamento digital de sinal usados para processar sinais de áudio, vídeo, etc.,              quer em tempo real quer em off-line.
+   
+   FPGAs: um FPGA é um dispositivo semicondutor que é largamente utilizado para o processamento de informações digitais. O FPGA é          composto basicamente por três tipos de componentes: blocos de entrada e saída (IOB), blocos lógicos configuráveis (CLB) e chaves de      interconexão (Switch Matrix). 
+   
+   ASICs:  são circuitos orientados para implementação de tarefas específicas em domínios bem definidos, estão em contraste com os          circuitos de aplicação geral.
+   
+   SoCs: As características de um SoC assemelham-se às de um microcontrolador. Normalmente, microcontroladores possuem menos que 100K de    RAM (apenas poucos KBytes), e frequentemente são sistemas de chip único. Enquanto que o termo SoC é várias vezes usado para              processadores mais potentes, capazes de executarem programas como o Windows ou o Linux, nas quais necessitam de memórias externas        (flash, RAM) para funcionarem, e que são usados com vários periféricos acoplados.
+   
+   MPSoCs: MPSoCs geralmente são direcionados para aplicativos incorporados. É usado por plataformas que contêm vários elementos de        processamento   
 5 -
-   Custo benef�cio
+   Custo benefício
    Maior suporte online
    Boa capacidade de processamento
     
