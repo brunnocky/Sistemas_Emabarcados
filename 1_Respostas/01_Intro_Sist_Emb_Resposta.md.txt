@@ -1,0 +1,26 @@
+1 - Sistemas embarcados, são um conjunto de sistemas projetados para realizarem tarefas específicas. Desta forma, é possível otimizar
+de forma geral o projeto.
+
+2 - 
+Um sistema microprocessado é composto por: Uma unidade central de processamento (CPU), Um conjunto de periféricos necessários para
+o seu funcionamento. Dentre este periféricos podemos destacar: Memória de dados, Memória de programa, Circuito de clock(sincronização das operações),
+Interfaces de entrada e saída 3.
+O microprocessador é responsável por executar todas as funções e comandos de um computador. Cada programa de software e cada componente de hardware 
+do computador é dependente do microprocessador .
+
+3 - Veículos automotivos: acionadores de tração, air bags e etc.
+    Controladores eletrônicosem microondas ou máquinas de lavar.
+    Robôs industriais
+    
+4- Microcontroladores
+   Processadores de propósio geral (ARM, Intel,Athlon...)
+   DSPs
+   FPGAs
+   ASICs
+   SoCs
+   MPSoCs
+5 -
+   Custo benefício
+   Maior suporte online
+   Boa capacidade de processamento
+    
